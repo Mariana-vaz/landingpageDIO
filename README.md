@@ -1,4 +1,4 @@
-# Trilha de CSS - DIO - Minha Primeira Página Estilizada
+# Trilha de CSS - DIO - Página Estilizada
 
 Na transição de contabilidade pra TI, mergulhei num curso da DIO e criei essa página "Trilha de CSS"! Usei HTML pra estruturar e CSS (no arquivo style.css) pra dar vida, com um banner, seções de módulos e um rodapé estiloso. Adicionei imagens e um botão interativo — foi um desafio alinhar tudo direitinho, mas adorei ver o resultado com o logo da DIO e o texto sobre transformar o mundo.
 
