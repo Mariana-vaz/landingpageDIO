@@ -6,4 +6,4 @@ Na transição de contabilidade pra TI, mergulhei num curso da DIO e criei essa 
 - **O que aprendi:** Como organizar layouts, usar classes e estilizar com CSS puro.
 - **Momento top:** Configurar o banner e ver ele ficar igual ao exemplo do curso!
 
-Feito por mim, [Seu Nome], como parte da minha evolução em design web na jornada pra tech.
+Feito por mim, Mariana, como parte da minha evolução em design web na jornada pra tech.
